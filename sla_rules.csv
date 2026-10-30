@@ -1,0 +1,16 @@
+category,priority,hours
+tech,Высокий,4
+tech,Средний,8
+tech,Низкий,24
+billing,Высокий,8
+billing,Средний,24
+billing,Низкий,48
+connect,Высокий,24
+connect,Средний,48
+connect,Низкий,72
+tariff,Высокий,24
+tariff,Средний,48
+tariff,Низкий,72
+complaint,Высокий,8
+complaint,Средний,24
+complaint,Низкий,48
